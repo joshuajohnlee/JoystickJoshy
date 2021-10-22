@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JoystickJoshy
+- 👀 I'm a cyber security student.
+- 🌱 I’m currently learning Python!
